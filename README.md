@@ -67,5 +67,5 @@ You can  complete the testing process running the main.py.
 ## How To Cite
 ```
 Integrating Multi-Dimentional Frequency Features via Multi-Task Learning for Fake News Detection: Empirical Study on Cross-Temporal Generalization
-Jianyi Zheng, Zirui Zhang, Siming Wang, Rong Yu, Yaqi Hu. 2025. Integrating Multi-Dimentional Frequency Features via Multi-Task Learning for Fake News Detection: Empirical Study on Cross-Temporal Generalization. Reviewing.
+Jianyi Zheng, Zirui Zhang, Siming Wang, Rong Yu, Yaqi Hu, Wuchang Zhong. 2026. Integrating Multi-Dimentional Frequency Features via Multi-Task Learning for Fake News Detection: Empirical Study on Cross-Temporal Generalization. Reviewing.
 ```
