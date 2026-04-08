@@ -1,5 +1,5 @@
 # IMFM_for-fake-news-detection
-# IMFM：Integrating Multi-Dimentional Frequency Features via Multi-Task Learning for Fake News Detection: Empirical Study on Cross-Temporal Generalization
+# IMFM: Integrate multidimensional frequency features with multi-task learning for fake news detection
 #We will upload the complete code and dataset after the paper review process has concluded.
 
 ## Introduction
@@ -66,6 +66,6 @@ You can  complete the testing process running the main.py.
 
 ## How To Cite
 ```
-Integrating Multi-Dimentional Frequency Features via Multi-Task Learning for Fake News Detection: Empirical Study on Cross-Temporal Generalization
-Jianyi Zheng, Zirui Zhang, Siming Wang, Rong Yu, Yaqi Hu, Wuchang Zhong. 2026. Integrating Multi-Dimentional Frequency Features via Multi-Task Learning for Fake News Detection: Empirical Study on Cross-Temporal Generalization. Reviewing.
+IMFM: Integrate multidimensional frequency features with multi-task learning for fake news detection
+Jianyi Zheng, Zirui Zhang, Siming Wang, Rong Yu, Yaqi Hu, Wuchang Zhong. 2026. IMFM: Integrate multidimensional frequency features with multi-task learning for fake news detection. Reviewing.
 ```
